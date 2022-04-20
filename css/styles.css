@@ -1,0 +1,184 @@
+#title{
+	background-color: #BE8C63;	
+	color: #ffffff;
+}
+.navbar{
+	padding: 0 0 1rem;
+	margin: 0rem;
+	background-color:#BE8C63 ;
+}
+.skill-head{
+	color: #BE8C63;
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+}
+.detail{
+	padding-top: 5%;
+	text-align: left;
+}
+.nav-item{
+	padding: 15px;
+}
+.container-fluid{
+	padding: 3% 15%;
+}
+.navbar-brand{
+	padding: 10px;
+	font-family: 'Dancing Script', cursive;
+	font-size: 3rem;
+	font-weight: bold;
+}
+.title-image{
+	width: 80%;
+}
+.body{
+	font-family: 'Roboto', sans-serif;
+	align-content: center;
+}
+.about-head{
+	text-align: center;
+	color: #BE8C63;
+	margin-top: 10px;
+}
+.h2{
+	color: #FF5F00;
+}
+.sub{
+	color: #BE8C63;
+	text-align: center !important;
+}
+.about-p{
+	margin-top: 10px;
+	/*color: #8f8f8f;*/
+	padding: 15px;
+	font-size: 15px;
+}	
+.skills-heading{
+	text-align: center;
+	color: #BE8C63;
+	margin-top: 5px;
+}
+.send{
+	margin: 5% 3% 5% 0;
+	text-decoration: none;
+}
+.about-img{
+	height: 300px;
+	padding:5% 10%;
+	position: relative;
+	margin: 0% 5% 5% 5%;
+}
+.progress{
+	margin: 10%;
+}
+#skills{
+	background-color:#fffff ;
+	padding: 20px;
+	margin: 5%;
+
+}
+.education-img{
+	width: 70%;
+	margin: 0 40%;
+	position: relative;
+	margin-top: -50px;
+}
+.education-head{
+	text-align: center;
+	color: #BE8C63;
+	margin-top: 5px;
+}
+.edu-background{
+	text-align: center;
+	padding: 10px;
+}
+.item{
+	transition: ;
+}
+.item:hover{
+	filter: brightness(50%);
+}
+.border{
+	margin: 5% 20%;
+	box-shadow:2px 2px 2px  grey ;
+}
+.contact{
+	background-color:#BE8C63  ;
+}
+.contact-head{
+	text-align: center;
+	color: #BE8C63;
+	font-size: 40px;
+	margin: 0 40%;
+	margin-top: 10px;
+}
+.contact-text{
+	text-align: justify;
+	margin: 100px;
+}
+.close {
+  font-size: 1.5rem;
+}
+
+.col-12 img {
+  cursor: pointer;
+  position: relative;
+  margin-top: 2rem;
+  width: 100%;
+}
+
+.col-12 img:hover {
+  opacity: 1;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.btn-contact{
+	margin:5% 10%;
+  color: #BE8C63;
+  align-content: center;
+  text-decoration: none;
+}
+.btn-contact:hover{
+	background-color: #BE8C63;
+	text-decoration: none;
+}
+.info{
+	margin: 5 5rem;
+}
+.info-text{
+	margin-top: 20px;
+	text-align: center;
+}
+.in{
+	font-size: 20px;
+	color: #BE8C63 ;
+	margin: 0 5% 5% ;
+	margin-top: -20px;
+}
+.gallery-head{
+	text-align: center;
+	color: #BE8C63;
+}
+.bottom{
+	background-color: #BE8C63;
+	bottom: 0px;
+	height: 100px;
+	text-align: center;
+	}
+.last{
+	color: #ffffff;
+	margin: 10px 30px;
+	position: relative;
+	padding-top: 10px;
+	display: inline-block;
+	font-size: 15px;
+	text-decoration: none;
+}
+.last:hover{
+	color: #EAF6F6;	
+}
+.footer{
+	color: white;
+}
+.info-messsage{
+	text-decoration: none;
+}
